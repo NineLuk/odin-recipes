@@ -5,8 +5,9 @@
     text-align: center;
 }
 
-p{
+ul{
     font-size: larger;
+    list-style: none;
 }
 
 h1{
