@@ -8,8 +8,21 @@
 ul{
     font-size: larger;
     list-style: none;
+
 }
 
 h1{
     font-size: 60px;
+}
+
+.list {
+    background-color: rgb(224, 207, 237);
+    padding: 10px;
+    margin: 10px;
+    border-radius: 20px;
+    display: inline-block;
+    text-decoration: none;
+}
+.list:hover{
+    background-color: rgb(192, 160, 217);
 }
